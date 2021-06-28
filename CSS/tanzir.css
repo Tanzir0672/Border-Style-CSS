@@ -1,0 +1,74 @@
+.Border-propertise{
+    border-width: 2 px;
+    border-color: red;
+    border-style: solid;
+    border:dotted 2px red;
+}
+.Border-propertis{
+    border-width: 2 px;
+    border-color: red;
+    border-style: solid;
+    border: dashed 2px red;
+}
+
+.Border-properti{
+    border-width: 2 px;
+    border-color: red;
+    border-style: solid;
+    border: groove 7px red;
+}
+
+.Border-propert{
+    border-width: 2 px;
+    border-color: red;
+    border-style: solid;
+    border: inset 2px red;
+}
+.Border-proper{
+    border-width: 2 px;
+    border-color: red;
+    border-style: solid;
+    border: inherit 2px red;
+}
+.Border-prope{
+    border-width: 2 px;
+    border-color: red;
+    border-style: solid;
+    border: outset 10px red;
+}
+.Border-prop{
+    border-width: 2 px;
+    border-color: red;
+    border-style: solid;
+    border: thick 2px red;
+}
+.Border-pro{
+    border-width: 2 px;
+    border-color: red;
+    border-style: solid;
+    border: double 2px red;
+}
+.Border-pr{
+    border-width: 2 px;
+    border-color: red;
+    border-style: solid;
+    border: thin 2px red;
+}
+.Border-p{
+    border-width: 2 px;
+    border-color: red;
+    border-style: solid;
+    border: hidden 2px red;
+}
+.Borderr{
+    border-width: 2 px;
+    border-color: red;
+    border-style: solid;
+    border: outset 2px red;
+}
+.Borrd{
+    border-width: 2 px;
+    border-color: red;
+    border-style: solid;
+    border: ridge 2px red;
+}
